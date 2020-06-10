@@ -9,4 +9,5 @@ def display_board(board)
   puts "   |   |   "
 end
 
+[" ", " ", " ", " ", "X", " ", " ", " ", " "]
 display_board([])
